@@ -1,1 +1,1 @@
-http://pphvpnpro.duckdns.org/website
+http://pphvpnpro.duckdns.org
